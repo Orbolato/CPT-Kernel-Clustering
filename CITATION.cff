@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated Soils and Rocks article."
+title: "CPT Kernel Clustering"
+type: software
+authors:
+  - family-names: Carvalho
+    given-names: Lucas Orbolato
+    orcid: "https://orcid.org/0000-0002-8402-5832"
+  - family-names: Ribeiro
+    given-names: Dimas Betioli
+repository-code: "https://github.com/Orbolato/CPT-Kernel-Clustering"
+url: "https://doi.org/10.28927/SR.434607"
+preferred-citation:
+  type: article
+  title: "Application of kernel k-means and kernel x-means clustering to obtain soil classes from cone penetration test data"
+  authors:
+    - family-names: Carvalho
+      given-names: Lucas Orbolato
+    - family-names: Ribeiro
+      given-names: Dimas Betioli
+  journal: "Soils and Rocks"
+  volume: 43
+  issue: 4
+  start: 607
+  end: 618
+  year: 2020
+  doi: "10.28927/SR.434607"
