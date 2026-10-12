@@ -1,0 +1,26 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Recovered datasets are intentionally not redistributed.
+data/*.csv
+data/*.RData
+completa.csv
+metro.csv
+cunha.csv
+erosao.csv
+conf.csv
+conf_2.csv
+data_folds.RData
+
+# Generated analyses.
+results/*
+!results/.gitkeep
+
+# Local archives and editor/OS files.
+*.zip
+*.rar
+.DS_Store
+Thumbs.db
